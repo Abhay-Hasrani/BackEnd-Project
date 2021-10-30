@@ -1,0 +1,6 @@
+# BackEnd-Project
+BackEnd project submission
+some points that i left out in video were checkbox usage if you dont agree to the policy it will give warning to agree  then you can continue...
+Registration activity is made using contraint layout and guidelines.
+
+Thank You...
